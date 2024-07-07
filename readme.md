@@ -18,9 +18,9 @@ Vimpubs adds the following commands:
 
 - `PubsList`: Lists add bibliography entries added with pubs in a new buffer. In the list, the following commands are available:
 	- `<C-n>` and `<C-p>` will jump to the next and previous respectively in the list, keeping the entry centered.
-	- `<C-l>` will jump to a '\[pdf\]' tag at the end of the line, if there is one.
+	- `<C-l>` will jump to a `[pdf]` tag at the end of the line, if there is one.
 	- `g<CR>`:
-		- Will open the linked pdf-file if over an `\[pdf\]` tag.
+		- Will open the linked pdf-file if over an `[pdf]` tag.
 
 ## Todo
 
