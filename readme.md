@@ -4,15 +4,15 @@ Vimpubs adds commands for pubs, an bibliography tool for the command line.
 
 Inspiration for this plugin comes from vim-philosophy-tools (https://github.com/bwhelm/vim-philosophy-tools/tree/master)
 
-# Installation
+## Installation
 
 Make sure that you have pubs correctly installed.
 
-## Requirements
+### Requirements
 
 * Pubs (https://github.com/pubs/pubs)
 
-# Usage
+## Usage
 
 Vimpubs adds the following commands:
 
@@ -22,6 +22,6 @@ Vimpubs adds the following commands:
 	- `g<CR>`:
 		- Will open the linked pdf-file if over an `\[pdf\]` tag.
 
-# Todo
+## Todo
 
 * Add the following commands: `PubsRename`, `PubsEdit`, `PubsNote`, `PubsExport`, `PubsImport`, `PubsAdd`, and `PubsTag`.
